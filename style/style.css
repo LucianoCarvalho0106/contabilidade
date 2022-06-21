@@ -364,23 +364,31 @@ nav ul {
     }
 
     .section2{
-        height: 100vh;
+        height: 105vh;
     }
     
     #principal{
-        height: 120vh;
+        height: 115vh;
+        
     }
     
     .servicess{
         margin-top: 2rem;
+        margin-right: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     .grid2{
-        margin-top: 3rem;
+        margin-top: 5rem;
+        width:100vw;
     }
     
     #divul{
         display: none;
+       
     }
 
     .lanchonete{
@@ -393,6 +401,11 @@ nav ul {
         display: flex;
         flex-direction: row-reverse;
         justify-content: space-between;
+    }
+
+    .isk{
+        
+        margin-left: 12rem;
     }
 
    
